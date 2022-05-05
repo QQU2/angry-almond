@@ -6,7 +6,7 @@ SELECT 'Hello Oracle Cloud' FROM DUAL;
  * 개발자용 사용자 계정으로 데이터베이스를 사용할 수 있도록
  * 별도의 계정을 생성.
  */
-CREATE USER puser1 IDENTIFIED BY Database1234;
+CREATE USER puser1 IDENTIFIED BY xhfpsxmWkd0712;
 
 -- 생성한 계정에 권한 부여
 GRANT RESOURCE, CONNECT TO puser1;
